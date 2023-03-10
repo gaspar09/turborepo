@@ -7678,6 +7678,12 @@
     ],
     "axes": [
       {
+        "tag": "YOPQ",
+        "min": 40,
+        "max": 300,
+        "defaultValue": 300
+      },
+      {
         "tag": "wght",
         "min": 100,
         "max": 900,
