@@ -1030,6 +1030,29 @@
       }
     ]
   },
+  "Anuphan": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 700,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Anybody": {
     "weights": [
       "100",
@@ -15226,6 +15249,14 @@
       "normal"
     ]
   },
+  "Rubik Pixels": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Rubik Puddles": {
     "weights": [
       "400"
@@ -15642,6 +15673,29 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Schibsted Grotesk": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Schoolbell": {
