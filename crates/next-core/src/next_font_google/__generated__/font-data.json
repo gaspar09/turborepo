@@ -10930,14 +10930,26 @@
   "Noto Sans JP": {
     "weights": [
       "100",
+      "200",
       "300",
       "400",
       "500",
+      "600",
       "700",
-      "900"
+      "800",
+      "900",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Noto Sans Javanese": {
