@@ -2606,6 +2606,14 @@
       "normal"
     ]
   },
+  "Braah One": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Brawler": {
     "weights": [
       "400",
@@ -2616,6 +2624,22 @@
     ]
   },
   "Bree Serif": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Bruno Ace": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Bruno Ace SC": {
     "weights": [
       "400"
     ],
@@ -2978,6 +3002,16 @@
       "italic"
     ]
   },
+  "Carlito": {
+    "weights": [
+      "400",
+      "700"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ]
+  },
   "Carme": {
     "weights": [
       "400"
@@ -3017,6 +3051,14 @@
     "styles": [
       "normal",
       "italic"
+    ]
+  },
+  "Castoro Titling": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
     ]
   },
   "Catamaran": {
@@ -6808,6 +6850,15 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Instrument Serif": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal",
+      "italic"
     ]
   },
   "Inter": {
@@ -13617,6 +13668,44 @@
       "normal"
     ]
   },
+  "Pathway Extreme": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ],
+    "axes": [
+      {
+        "tag": "opsz",
+        "min": 8,
+        "max": 144,
+        "defaultValue": 12
+      },
+      {
+        "tag": "wdth",
+        "min": 75,
+        "max": 100,
+        "defaultValue": 100
+      },
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Pathway Gothic One": {
     "weights": [
       "400"
@@ -13946,6 +14035,27 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Poltawski Nowy": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
     ]
   },
   "Poly": {
@@ -15981,6 +16091,14 @@
       "normal"
     ]
   },
+  "Sigmar": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Sigmar One": {
     "weights": [
       "400"
@@ -17866,6 +17984,14 @@
       "normal"
     ]
   },
+  "Vina Sans": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Voces": {
     "weights": [
       "400"
@@ -18181,6 +18307,34 @@
         "tag": "wght",
         "min": 300,
         "max": 700,
+        "defaultValue": 400
+      }
+    ]
+  },
+  "Ysabeau": {
+    "weights": [
+      "1",
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "1000",
+      "variable"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 1,
+        "max": 1000,
         "defaultValue": 400
       }
     ]
