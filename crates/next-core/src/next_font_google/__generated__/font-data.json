@@ -3530,6 +3530,31 @@
       "normal"
     ]
   },
+  "Comme": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Commissioner": {
     "weights": [
       "100",
@@ -3984,6 +4009,14 @@
       "700",
       "800",
       "900"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Darumadrop One": {
+    "weights": [
+      "400"
     ],
     "styles": [
       "normal"
@@ -5182,6 +5215,31 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Foldit": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Fondamento": {
@@ -7587,6 +7645,14 @@
     ]
   },
   "Kolker Brush": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Konkhmer Sleokchher": {
     "weights": [
       "400"
     ],
@@ -11962,11 +12028,26 @@
   "Noto Sans Syriac": {
     "weights": [
       "100",
+      "200",
+      "300",
       "400",
-      "900"
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Noto Sans TC": {
@@ -13149,14 +13230,43 @@
       "200",
       "300",
       "400",
+      "500",
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "1000",
+      "variable"
     ],
     "styles": [
       "normal",
       "italic"
+    ],
+    "axes": [
+      {
+        "tag": "YTLC",
+        "min": 440,
+        "max": 540,
+        "defaultValue": 500
+      },
+      {
+        "tag": "opsz",
+        "min": 6,
+        "max": 12,
+        "defaultValue": 12
+      },
+      {
+        "tag": "wdth",
+        "min": 75,
+        "max": 125,
+        "defaultValue": 100
+      },
+      {
+        "tag": "wght",
+        "min": 200,
+        "max": 1000,
+        "defaultValue": 400
+      }
     ]
   },
   "Nuosu SIL": {
