@@ -4032,10 +4032,19 @@
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 300,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Darumadrop One": {
@@ -5684,6 +5693,49 @@
     "styles": [
       "normal",
       "italic"
+    ]
+  },
+  "Geologica": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "CRSV",
+        "min": 0,
+        "max": 1,
+        "defaultValue": 0
+      },
+      {
+        "tag": "SHRP",
+        "min": 0,
+        "max": 100,
+        "defaultValue": 0
+      },
+      {
+        "tag": "slnt",
+        "min": -12,
+        "max": 0,
+        "defaultValue": 0
+      },
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Georama": {
@@ -12458,12 +12510,34 @@
   },
   "Noto Serif": {
     "weights": [
+      "100",
+      "200",
+      "300",
       "400",
-      "700"
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
     ],
     "styles": [
       "normal",
       "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wdth",
+        "min": 62.5,
+        "max": 100,
+        "defaultValue": 100
+      },
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Noto Serif Ahom": {
@@ -13843,6 +13917,14 @@
       "500",
       "600",
       "700"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Palette Mosaic": {
+    "weights": [
+      "400"
     ],
     "styles": [
       "normal"
@@ -15403,6 +15485,14 @@
       "normal"
     ]
   },
+  "Rock 3D": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Rock Salt": {
     "weights": [
       "400"
@@ -16322,6 +16412,14 @@
       "600",
       "700",
       "800"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Shizuru": {
+    "weights": [
+      "400"
     ],
     "styles": [
       "normal"
@@ -18671,6 +18769,22 @@
     ]
   },
   "Yuji Boku": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Yuji Hentaigana Akari": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Yuji Hentaigana Akebono": {
     "weights": [
       "400"
     ],
