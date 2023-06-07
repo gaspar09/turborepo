@@ -3465,14 +3465,6 @@
       "normal"
     ]
   },
-  "Coda Caption": {
-    "weights": [
-      "800"
-    ],
-    "styles": [
-      "normal"
-    ]
-  },
   "Codystar": {
     "weights": [
       "300",
@@ -16958,20 +16950,6 @@
       }
     ]
   },
-  "Source Sans Pro": {
-    "weights": [
-      "200",
-      "300",
-      "400",
-      "600",
-      "700",
-      "900"
-    ],
-    "styles": [
-      "normal",
-      "italic"
-    ]
-  },
   "Source Serif 4": {
     "weights": [
       "200",
@@ -17001,20 +16979,6 @@
         "max": 900,
         "defaultValue": 400
       }
-    ]
-  },
-  "Source Serif Pro": {
-    "weights": [
-      "200",
-      "300",
-      "400",
-      "600",
-      "700",
-      "900"
-    ],
-    "styles": [
-      "normal",
-      "italic"
     ]
   },
   "Space Grotesk": {
