@@ -1637,6 +1637,14 @@
       "normal"
     ]
   },
+  "Bagel Fat One": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Bahiana": {
     "weights": [
       "400"
@@ -4162,6 +4170,14 @@
       "normal"
     ]
   },
+  "Diphylleia": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Diplomata": {
     "weights": [
       "400"
@@ -5587,6 +5603,14 @@
       }
     ]
   },
+  "Gasoek One": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Gayathri": {
     "weights": [
       "100",
@@ -6029,6 +6053,14 @@
     ]
   },
   "Grand Hotel": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Grandiflora One": {
     "weights": [
       "400"
     ],
@@ -9591,6 +9623,14 @@
         "max": 700,
         "defaultValue": 400
       }
+    ]
+  },
+  "Moirai One": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
     ]
   },
   "Molengo": {
@@ -13577,6 +13617,14 @@
     ]
   },
   "Oranienbaum": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Orbit": {
     "weights": [
       "400"
     ],
