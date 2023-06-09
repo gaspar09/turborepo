@@ -7430,6 +7430,23 @@
       "italic"
     ]
   },
+  "Kablammo": {
+    "weights": [
+      "400",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "MORF",
+        "min": 0,
+        "max": 60,
+        "defaultValue": 0
+      }
+    ]
+  },
   "Kadwa": {
     "weights": [
       "400",
