@@ -14331,7 +14331,7 @@
         "tag": "opsz",
         "min": 5,
         "max": 1200,
-        "defaultValue": 12
+        "defaultValue": 14
       },
       {
         "tag": "wdth",
