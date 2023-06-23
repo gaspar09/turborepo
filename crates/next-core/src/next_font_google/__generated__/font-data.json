@@ -116,9 +116,31 @@
       }
     ]
   },
+  "Agdasima": {
+    "weights": [
+      "400",
+      "700"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Aguafina Script": {
     "weights": [
       "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Akatab": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ],
     "styles": [
       "normal"
@@ -304,13 +326,28 @@
   },
   "Aleo": {
     "weights": [
+      "100",
+      "200",
       "300",
       "400",
-      "700"
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
     ],
     "styles": [
       "normal",
       "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Alex Brush": {
@@ -1629,6 +1666,14 @@
       "normal"
     ]
   },
+  "Bacasime Antique": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Bad Script": {
     "weights": [
       "400"
@@ -2076,6 +2121,16 @@
   "Bebas Neue": {
     "weights": [
       "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Belanosima": {
+    "weights": [
+      "400",
+      "600",
+      "700"
     ],
     "styles": [
       "normal"
@@ -2977,6 +3032,14 @@
     ]
   },
   "Cantora One": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Caprasimo": {
     "weights": [
       "400"
     ],
@@ -10926,7 +10989,8 @@
   },
   "Noto Sans Duployan": {
     "weights": [
-      "400"
+      "400",
+      "700"
     ],
     "styles": [
       "normal"
@@ -13127,6 +13191,14 @@
         "max": 700,
         "defaultValue": 400
       }
+    ]
+  },
+  "Noto Serif Ottoman Siyaq": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
     ]
   },
   "Noto Serif SC": {
@@ -18787,6 +18859,89 @@
     "styles": [
       "normal",
       "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 1,
+        "max": 1000,
+        "defaultValue": 400
+      }
+    ]
+  },
+  "Ysabeau Infant": {
+    "weights": [
+      "1",
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "1000",
+      "variable"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 1,
+        "max": 1000,
+        "defaultValue": 400
+      }
+    ]
+  },
+  "Ysabeau Office": {
+    "weights": [
+      "1",
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "1000",
+      "variable"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 1,
+        "max": 1000,
+        "defaultValue": 400
+      }
+    ]
+  },
+  "Ysabeau SC": {
+    "weights": [
+      "1",
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "1000",
+      "variable"
+    ],
+    "styles": [
+      "normal"
     ],
     "axes": [
       {
