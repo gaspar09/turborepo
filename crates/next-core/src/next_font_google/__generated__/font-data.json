@@ -10205,6 +10205,14 @@
       "normal"
     ]
   },
+  "Narnoor": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Neonderthaw": {
     "weights": [
       "400"
@@ -13110,6 +13118,14 @@
         "max": 900,
         "defaultValue": 400
       }
+    ]
+  },
+  "Noto Serif Makasar": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
     ]
   },
   "Noto Serif Malayalam": {
