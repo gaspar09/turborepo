@@ -4024,13 +4024,35 @@
   },
   "DM Sans": {
     "weights": [
+      "100",
+      "200",
+      "300",
       "400",
       "500",
-      "700"
+      "600",
+      "700",
+      "800",
+      "900",
+      "1000",
+      "variable"
     ],
     "styles": [
       "normal",
       "italic"
+    ],
+    "axes": [
+      {
+        "tag": "opsz",
+        "min": 9,
+        "max": 40,
+        "defaultValue": 14
+      },
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 1000,
+        "defaultValue": 400
+      }
     ]
   },
   "DM Serif Display": {
@@ -8836,6 +8858,31 @@
       "normal"
     ]
   },
+  "Lugrasimo": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Lumanosimo": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Lunasima": {
+    "weights": [
+      "400",
+      "700"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Lusitana": {
     "weights": [
       "400",
@@ -10924,6 +10971,14 @@
       "normal"
     ]
   },
+  "Noto Sans Cypro Minoan": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Noto Sans Deseret": {
     "weights": [
       "400"
@@ -12330,6 +12385,31 @@
       }
     ]
   },
+  "Noto Sans Syriac Eastern": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Noto Sans TC": {
     "weights": [
       "100",
@@ -13036,6 +13116,14 @@
         "max": 900,
         "defaultValue": 400
       }
+    ]
+  },
+  "Noto Serif Khitan Small Script": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
     ]
   },
   "Noto Serif Khmer": {
@@ -17669,6 +17757,34 @@
       "normal"
     ]
   },
+  "Tektur": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wdth",
+        "min": 75,
+        "max": 100,
+        "defaultValue": 100
+      },
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 900,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Telex": {
     "weights": [
       "400"
@@ -18469,6 +18585,30 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Victor Mono": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 700,
+        "defaultValue": 400
+      }
     ]
   },
   "Vidaloka": {
