@@ -2661,6 +2661,14 @@
       "normal"
     ]
   },
+  "Borel": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Bowlby One": {
     "weights": [
       "400"
@@ -4067,6 +4075,19 @@
   "DM Serif Text": {
     "weights": [
       "400"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ]
+  },
+  "Dai Banna SIL": {
+    "weights": [
+      "300",
+      "400",
+      "500",
+      "600",
+      "700"
     ],
     "styles": [
       "normal",
@@ -6407,6 +6428,43 @@
       "normal"
     ]
   },
+  "Handjet": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "ELGR",
+        "min": 1,
+        "max": 2,
+        "defaultValue": 1
+      },
+      {
+        "tag": "ELSH",
+        "min": 0,
+        "max": 16,
+        "defaultValue": 2
+      },
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Handlee": {
     "weights": [
       "400"
@@ -8675,6 +8733,22 @@
   "Linden Hill": {
     "weights": [
       "400"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ]
+  },
+  "Lisu Bosa": {
+    "weights": [
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ],
     "styles": [
       "normal",
@@ -12677,6 +12751,26 @@
       "normal"
     ]
   },
+  "Noto Sans Vithkuqi": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Noto Sans Wancho": {
     "weights": [
       "400"
@@ -13486,6 +13580,26 @@
     ]
   },
   "Noto Serif Toto": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
+    ]
+  },
+  "Noto Serif Vithkuqi": {
     "weights": [
       "400",
       "500",
@@ -14985,6 +15099,32 @@
       "normal"
     ]
   },
+  "REM": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Racing Sans One": {
     "weights": [
       "400"
@@ -16480,11 +16620,22 @@
   "Sen": {
     "weights": [
       "400",
+      "500",
+      "600",
       "700",
-      "800"
+      "800",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 800,
+        "defaultValue": 400
+      }
     ]
   },
   "Send Flowers": {
@@ -16719,6 +16870,12 @@
       "normal"
     ],
     "axes": [
+      {
+        "tag": "GRAD",
+        "min": -30,
+        "max": 0,
+        "defaultValue": 0
+      },
       {
         "tag": "wght",
         "min": 300,
