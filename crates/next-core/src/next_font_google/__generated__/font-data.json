@@ -2710,6 +2710,41 @@
       "normal"
     ]
   },
+  "Bricolage Grotesque": {
+    "weights": [
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "opsz",
+        "min": 10,
+        "max": 48,
+        "defaultValue": 14
+      },
+      {
+        "tag": "wdth",
+        "min": 75,
+        "max": 100,
+        "defaultValue": 100
+      },
+      {
+        "tag": "wght",
+        "min": 200,
+        "max": 800,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Bruno Ace": {
     "weights": [
       "400"
@@ -16240,6 +16275,17 @@
   "Ruthie": {
     "weights": [
       "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Ruwudu": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700"
     ],
     "styles": [
       "normal"
