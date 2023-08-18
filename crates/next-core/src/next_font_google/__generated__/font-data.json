@@ -8,6 +8,14 @@
       "italic"
     ]
   },
+  "ADLaM Display": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Abel": {
     "weights": [
       "400"
@@ -11351,14 +11359,26 @@
   "Noto Sans HK": {
     "weights": [
       "100",
+      "200",
       "300",
       "400",
       "500",
+      "600",
       "700",
-      "900"
+      "800",
+      "900",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Noto Sans Hanifi Rohingya": {
@@ -11508,14 +11528,26 @@
   "Noto Sans KR": {
     "weights": [
       "100",
+      "200",
       "300",
       "400",
       "500",
+      "600",
       "700",
-      "900"
+      "800",
+      "900",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Noto Sans Kaithi": {
@@ -12283,14 +12315,26 @@
   "Noto Sans SC": {
     "weights": [
       "100",
+      "200",
       "300",
       "400",
       "500",
+      "600",
       "700",
-      "900"
+      "800",
+      "900",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Noto Sans Samaritan": {
@@ -12522,14 +12566,26 @@
   "Noto Sans TC": {
     "weights": [
       "100",
+      "200",
       "300",
       "400",
       "500",
+      "600",
       "700",
-      "900"
+      "800",
+      "900",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Noto Sans Tagalog": {
@@ -17954,10 +18010,19 @@
       "400",
       "500",
       "600",
-      "700"
+      "700",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 300,
+        "max": 700,
+        "defaultValue": 400
+      }
     ]
   },
   "Tektur": {
@@ -18952,6 +19017,43 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Wavefont": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "ROND",
+        "min": 0,
+        "max": 100,
+        "defaultValue": 100
+      },
+      {
+        "tag": "YELA",
+        "min": -100,
+        "max": 100,
+        "defaultValue": -100
+      },
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
     ]
   },
   "Wellfleet": {
