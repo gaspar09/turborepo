@@ -2735,8 +2735,8 @@
     "axes": [
       {
         "tag": "opsz",
-        "min": 10,
-        "max": 48,
+        "min": 12,
+        "max": 96,
         "defaultValue": 14
       },
       {
@@ -7091,6 +7091,15 @@
       "normal"
     ]
   },
+  "Inclusive Sans": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ]
+  },
   "Inconsolata": {
     "weights": [
       "200",
@@ -10040,6 +10049,14 @@
     ]
   },
   "Moo Lah Lah": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Mooli": {
     "weights": [
       "400"
     ],
