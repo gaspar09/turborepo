@@ -16,6 +16,32 @@
       "normal"
     ]
   },
+  "AR One Sans": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "ARRR",
+        "min": 10,
+        "max": 60,
+        "defaultValue": 10
+      },
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Abel": {
     "weights": [
       "400"
@@ -5660,6 +5686,28 @@
       "italic"
     ]
   },
+  "Gabarito": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 900,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Gabriela": {
     "weights": [
       "400"
@@ -7705,10 +7753,21 @@
   "Kameron": {
     "weights": [
       "400",
-      "700"
+      "500",
+      "600",
+      "700",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
     ]
   },
   "Kanit": {
@@ -11336,10 +11395,22 @@
   },
   "Noto Sans Gunjala Gondi": {
     "weights": [
-      "400"
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
     ]
   },
   "Noto Sans Gurmukhi": {
@@ -12052,6 +12123,26 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Noto Sans NKo Unjoined": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
     ]
   },
   "Noto Sans Nabataean": {
@@ -13994,6 +14085,31 @@
       "normal"
     ]
   },
+  "Onest": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100,
+        "max": 900,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Oooh Baby": {
     "weights": [
       "400"
@@ -14682,6 +14798,26 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Pixelify Sans": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
     ]
   },
   "Plaster": {
@@ -19290,6 +19426,14 @@
     ]
   },
   "Yomogi": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Young Serif": {
     "weights": [
       "400"
     ],
