@@ -150,6 +150,14 @@
       }
     ]
   },
+  "Agbalumo": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Agdasima": {
     "weights": [
       "400",
@@ -2485,11 +2493,28 @@
       "200",
       "300",
       "400",
+      "500",
+      "600",
       "700",
-      "800"
+      "800",
+      "variable"
     ],
     "styles": [
       "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wdth",
+        "min": 100,
+        "max": 125,
+        "defaultValue": 100
+      },
+      {
+        "tag": "wght",
+        "min": 200,
+        "max": 800,
+        "defaultValue": 400
+      }
     ]
   },
   "BioRhyme Expanded": {
@@ -7889,6 +7914,17 @@
       "normal"
     ]
   },
+  "Kay Pho Du": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Kdam Thmor Pro": {
     "weights": [
       "400"
@@ -8848,6 +8884,38 @@
     "styles": [
       "normal",
       "italic"
+    ]
+  },
+  "Linefont": {
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "1000",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wdth",
+        "min": 25,
+        "max": 200,
+        "defaultValue": 100
+      },
+      {
+        "tag": "wght",
+        "min": 4,
+        "max": 1000,
+        "defaultValue": 400
+      }
     ]
   },
   "Lisu Bosa": {
@@ -11677,6 +11745,26 @@
       }
     ]
   },
+  "Noto Sans Kawi": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
+    ]
+  },
   "Noto Sans Kayah Li": {
     "weights": [
       "400",
@@ -13568,6 +13656,14 @@
         "max": 700,
         "defaultValue": 400
       }
+    ]
+  },
+  "Noto Serif Old Uyghur": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
     ]
   },
   "Noto Serif Oriya": {
@@ -19243,6 +19339,7 @@
       "700",
       "800",
       "900",
+      "1000",
       "variable"
     ],
     "styles": [
@@ -19263,8 +19360,8 @@
       },
       {
         "tag": "wght",
-        "min": 100,
-        "max": 900,
+        "min": 4,
+        "max": 1000,
         "defaultValue": 400
       }
     ]
