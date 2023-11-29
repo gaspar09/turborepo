@@ -6654,6 +6654,31 @@
       "normal"
     ]
   },
+  "Hedvig Letters Sans": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Hedvig Letters Serif": {
+    "weights": [
+      "400",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "opsz",
+        "min": 12,
+        "max": 24,
+        "defaultValue": 24
+      }
+    ]
+  },
   "Heebo": {
     "weights": [
       "100",
@@ -10515,7 +10540,11 @@
   },
   "Narnoor": {
     "weights": [
-      "400"
+      "400",
+      "500",
+      "600",
+      "700",
+      "800"
     ],
     "styles": [
       "normal"
