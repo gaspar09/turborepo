@@ -6867,6 +6867,29 @@
       "normal"
     ]
   },
+  "Honk": {
+    "weights": [
+      "400",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "MORF",
+        "min": 0,
+        "max": 45,
+        "defaultValue": 15
+      },
+      {
+        "tag": "SHLN",
+        "min": 0,
+        "max": 100,
+        "defaultValue": 50
+      }
+    ]
+  },
   "Hubballi": {
     "weights": [
       "400"
@@ -16589,6 +16612,14 @@
       "normal"
     ]
   },
+  "Rubik Glitch Pop": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Rubik Iso": {
     "weights": [
       "400"
@@ -17509,6 +17540,29 @@
     ],
     "styles": [
       "normal"
+    ]
+  },
+  "Sixtyfour": {
+    "weights": [
+      "400",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "BLED",
+        "min": 0,
+        "max": 100,
+        "defaultValue": 0
+      },
+      {
+        "tag": "SCAN",
+        "min": -53,
+        "max": 100,
+        "defaultValue": 0
+      }
     ]
   },
   "Skranji": {
@@ -19637,6 +19691,29 @@
         "min": 100,
         "max": 900,
         "defaultValue": 400
+      }
+    ]
+  },
+  "Workbench": {
+    "weights": [
+      "400",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "BLED",
+        "min": 0,
+        "max": 100,
+        "defaultValue": 0
+      },
+      {
+        "tag": "SCAN",
+        "min": -53,
+        "max": 100,
+        "defaultValue": 0
       }
     ]
   },
