@@ -15416,6 +15416,38 @@
       "normal"
     ]
   },
+  "Protest Guerrilla": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Protest Revolution": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Protest Riot": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
+  "Protest Strike": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Proza Libre": {
     "weights": [
       "400",
