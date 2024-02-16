@@ -1057,6 +1057,15 @@
       "normal"
     ]
   },
+  "Annapurna SIL": {
+    "weights": [
+      "400",
+      "700"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Annie Use Your Telescope": {
     "weights": [
       "400"
@@ -1073,6 +1082,14 @@
     "styles": [
       "normal",
       "italic"
+    ]
+  },
+  "Anta": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
     ]
   },
   "Antic": {
@@ -7492,6 +7509,14 @@
       "normal"
     ]
   },
+  "Jacquarda Bastarda 9": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Jacques Francois": {
     "weights": [
       "400"
@@ -8164,6 +8189,26 @@
     "styles": [
       "normal",
       "italic"
+    ]
+  },
+  "Kode Mono": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "variable"
+    ],
+    "styles": [
+      "normal"
+    ],
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400,
+        "max": 700,
+        "defaultValue": 400
+      }
     ]
   },
   "Koh Santepheap": {
@@ -9951,6 +9996,14 @@
       "normal"
     ]
   },
+  "Micro 5": {
+    "weights": [
+      "400"
+    ],
+    "styles": [
+      "normal"
+    ]
+  },
   "Milonga": {
     "weights": [
       "400"
@@ -10564,6 +10617,18 @@
         "max": 24,
         "defaultValue": 12
       }
+    ]
+  },
+  "Namdhinggo": {
+    "weights": [
+      "400",
+      "500",
+      "600",
+      "700",
+      "800"
+    ],
+    "styles": [
+      "normal"
     ]
   },
   "Nanum Brush Script": {
